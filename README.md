@@ -8,3 +8,5 @@ As we all know, as time goes by,the key factors that affect the box office are i
 Our project will include more analysis than processing. The goal is to utilize analysis to help people who are either investors or have interests in movies to make better decisions on selecting the movies to invest or get a glance at a movie’s future by predicting a movie’s revenue class.
 
 Below are our project flowchart and description.
+
+X_working——Process.png
