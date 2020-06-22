@@ -9,4 +9,4 @@ Our project will include more analysis than processing. The goal is to utilize a
 
 Below are our project flowchart and description.
 
-X_working——Process.png
+![](image/X_working——Process.png)
