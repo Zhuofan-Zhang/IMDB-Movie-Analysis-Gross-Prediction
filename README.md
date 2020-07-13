@@ -10,7 +10,7 @@ With the rapid development of technology and big data, entertainment is quite a 
 
 As we all know, as time goes by,the key factors that affect the box office are increasing and their underlying relationships are ever-changing. All these challenges make it more valuable for us to try to analyze the trend of people's interests and the market and build models to predict revenues for future movies to help the people in the film industry.
 
-Our project will include more analysis than processing. The goal is to utilize analysis to help people who are either investors or have interests in movies to make better decisions on selecting the movies to invest or get a glance at a movie’s future by predicting a movie’s revenue class.
+The goal for our project is to utilize analysis to help people who are either investors or have interests in movies to make better decisions on selecting the movies to invest or get a glance at a movie’s future by predicting a movie’s revenue class. In order to achieve this goal, NLP, Machine Learning and Deep Learning are implemented. Word clouds, multiple plots and analysis reports are generated for data exploratory analysis.
 
 Below are our project flowchart and description.
 
