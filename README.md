@@ -14,4 +14,4 @@ The goal for our project is to utilize analysis to help people who are either in
 
 Below are our project flowchart and description.
 
-![](image/X_working——Process.png)
+![](image/Flowchart.png)
