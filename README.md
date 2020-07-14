@@ -1,8 +1,8 @@
 # IMDB-Movie-Analysis-Gross-Prediction
->Zhuofan Zhang zhuofan.zhang@rhsmith.umd.edu <br>
->Shiyu Shi shiyu.shi@rhsmith.umd.edu <br>
->Qing Yan qing.yan@rhsmith.umd.edu <br>
->Hui He hui.he@rhsmith.umd.edu <br>
+>Zhuofan Zhang zhuofan.zhang@marylandsmith.umd.edu <br>
+>Shiyu Shi shiyu.shi@marylandsmith.umd.edu <br>
+>Qing Yan qing.yan@marylandsmith.umd.edu <br>
+>Hui He hui.he@marylandsmith.umd.edu <br>
 
 This is a course project for Data Analytics with Python.
 
