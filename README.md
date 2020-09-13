@@ -1,6 +1,5 @@
 # IMDB-Movie-Analysis-Gross-Prediction
 >Zhuofan Zhang zhuofan.zhang@marylandsmith.umd.edu <br>
->Shiyu Shi shiyu.shi@marylandsmith.umd.edu <br>
 >Qing Yan qing.yan@marylandsmith.umd.edu <br>
 >Hui He hui.he@marylandsmith.umd.edu <br>
 
