@@ -1,8 +1,4 @@
 # IMDB-Movie-Analysis-Gross-Prediction
->Zhuofan Zhang zhuofan.zhang@marylandsmith.umd.edu <br>
->Qing Yan qing.yan@marylandsmith.umd.edu <br>
->Hui He hui.he@marylandsmith.umd.edu <br>
-
 This is a course project for Data Analytics with Python.
 
 With the rapid development of technology and big data, entertainment is quite a big part of people's daily life. Thus, more and more people and investors focus on movie industry in the context of promoting the development of movie industry. Exploring the influence factors of box office and trying to predict box office level could make a difference when it comes to promoting the development of movie industry and helping investors to make better decisions to gain high revenues.
